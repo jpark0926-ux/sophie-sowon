@@ -1,2 +1,3 @@
-# sophie-sowon
-Sophie Sowon gallery — permanent Vercel deploy source
+# Sophie Sowon
+
+MoMA-style WebGL gallery.
